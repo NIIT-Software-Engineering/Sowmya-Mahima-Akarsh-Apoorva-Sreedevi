@@ -1,0 +1,14 @@
+SRS:
+Correct the over all description with the block diagram/context diagram and little detail on this
+Apart from correcting the other headings before system features , The system feature heading is to be updated as follows:
+It must have two sub sections -
+Functional requiremnts 
+Non functional reqs.
+In functional requiremnts - Apart from the tabular representation of the reqs  put the use case diagram there.
+Non functional reqs. section should specify the infra, performance, hardwqare, software related requiremnts.
+
+
+Feasibility report:
+Technical competenece, tools etc are to be described in technical feasibility
+comparative study with the similar system in market in market research section
+Strong statement with analysis that you can do it in stipulated time.
